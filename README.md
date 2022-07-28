@@ -1,12 +1,12 @@
-# 낭만을 꿈꾸는 신입 백엔드 개발자
+# 낭만을 꿈꾸는 신입 백엔드 개발자 👋
 <div align=center>
-  <h3>Portfolio<h3>
+  <h3>👍Portfolio<h3>
   <a href="https://yhchan2000.notion.site/d4b8e33eed894cc3ae4a0ad2a8c03ce1"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
 
 </div>
 
 <div align='center'>
-  <h3>Interest</h3>
+  <h3> ✍Interest </h3>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&color=black)&nbsp;
@@ -22,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
 
 <div align=center>
- <h3>contact</h3>
+ <h3>✉️contact</h3>
   
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005291171984)](https://www.facebook.com/profile.php?id=100005291171984)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/imbel9830/)
