@@ -1,16 +1,31 @@
-### Hi there 👋
+# 낭만을 꿈꾸는 신입 백엔드 개발자
+<div align=center>
+  <h3>Portfolio<h3>
+  <a href="https://yhchan2000.notion.site/d4b8e33eed894cc3ae4a0ad2a8c03ce1"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
 
-<!--
-**PrettyHan/PrettyHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align='center'>
+  <h3>Interest</h3>
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&color=black)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=Express&color=black)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=black)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=MongoDB&color=black)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=MySQL&color=black)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=black)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&color=black)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=black)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
+
+<div align=center>
+ <h3>contact</h3>
+  
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005291171984)](https://www.facebook.com/profile.php?id=100005291171984)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/imbel9830/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imbel9830@gmail.com)](imbel9830@gmail.com)
+
+</div>
