@@ -26,6 +26,6 @@
   
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005291171984)](https://www.facebook.com/profile.php?id=100005291171984)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/imbel9830/)
-<a href="mailto:imbel9830@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imbel9830@gmail.com"/></a>
+  <a href="mailto:imbel9830@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imbel9830@gmail.com"/></a>
 
 </div>
