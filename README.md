@@ -1,4 +1,4 @@
-# 낭만을 꿈꾸는 신입 백엔드 개발자 👋
+# !New! Backend Developer 👋
 <div align=center>
   <h3>👍Portfolio<h3>
   <a href="https://locrian-corleggy-03e.notion.site/2062397f253b4799bf36aa43eb2c5647"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
