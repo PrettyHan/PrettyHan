@@ -13,3 +13,4 @@ jobs:
         with:
           CREDLY_USER: "woosung-han"
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUMBER_LAST_BADGES: 5
