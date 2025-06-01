@@ -1,4 +1,7 @@
 # FullStack Developer 👋
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <div align='center'>
   <h3> ✍Stack </h3>
   
@@ -9,8 +12,6 @@
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
   ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=white)&nbsp;
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
 
 <div align=center>
  <h3>✉️contact</h3>
