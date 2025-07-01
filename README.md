@@ -1,5 +1,8 @@
 # FullStack Developer 👋
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/4f006124-2ccb-4dd0-91bf-28dc78d2c5ae" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/f8f0e043-3b38-4b83-8782-1f994b0f23f2" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/19574ac3-ce88-43e2-a746-d8078ee84342" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <div align='center'>
